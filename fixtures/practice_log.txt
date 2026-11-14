@@ -1,0 +1,14 @@
+# PRACTICE DATA: invented numbers in nanoGPT's log format. These are not results from a real run.
+number of parameters: 10.65M
+step 0: train loss 4.1795, val loss 4.1803
+iter 0: loss 4.1720, time 950.00ms, mfu -100.00%
+iter 10: loss 3.2411, time 118.30ms, mfu 3.10%
+step 250: train loss 1.9802, val loss 2.0611
+saving checkpoint to out-mybook
+iter 260: loss 1.9544, time 121.90ms, mfu 3.02%
+step 500: train loss 1.5034, val loss 1.6912
+saving checkpoint to out-mybook
+step 750: train loss 1.2551, val loss 1.6540
+saving checkpoint to out-mybook
+step 1000: train loss 1.0907, val loss 1.7123
+step 1250: train loss 0.8800, val loss 1.8841
